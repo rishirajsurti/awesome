@@ -44,12 +44,8 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
 If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
-
-## Discovery
-
-Link back to this list from your list so users can easily discover more lists.
